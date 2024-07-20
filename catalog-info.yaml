@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GH-Repo
+  annotations:
+    github.com/project-slug: Devil6sidekick/GH-Repo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
